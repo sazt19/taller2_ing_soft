@@ -63,7 +63,7 @@ docker service create \
   <TU_USUARIO_DOCKERHUB>/pokeneas:latest
 ```
 
-### 5. Verificar
+### Verificar
 
 ```bash
 docker service ps pokeneas
