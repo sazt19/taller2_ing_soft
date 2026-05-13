@@ -5,7 +5,7 @@ const pokeneas = [
     nombre: "Cachaquito",
     altura: 0.5,
     habilidad: "Parlache infinito",
-    imagen: "https://storage.googleapis.com/pokeneas-bucket/cachaquito.png",
+    imagen: "https://storage.googleapis.com/pokeneas-buckets/cachaquito.png",
     frase: "El que no arriesga, no gana, parce.",
   },
   {
@@ -13,7 +13,7 @@ const pokeneas = [
     nombre: "Guayabero",
     altura: 1.2,
     habilidad: "Aroma frutal paralizante",
-    imagen: "https://storage.googleapis.com/pokeneas-bucket/guayabero.png",
+    imagen: "https://storage.googleapis.com/pokeneas-buckets/guayabero.png",
     frase: "La vida es dulce para quien sabe esperar.",
   },
   {
@@ -21,7 +21,7 @@ const pokeneas = [
     nombre: "Silletero",
     altura: 1.8,
     habilidad: "Carga flores eternas",
-    imagen: "https://storage.googleapis.com/pokeneas-bucket/silletero.png",
+    imagen: "https://storage.googleapis.com/pokeneas-buckets/silletero.png",
     frase: "La belleza no se compra, se cultiva con las manos.",
   },
   {
@@ -29,7 +29,7 @@ const pokeneas = [
     nombre: "Arrieroide",
     altura: 1.7,
     habilidad: "Camina sin cansarse",
-    imagen: "https://storage.googleapis.com/pokeneas-bucket/arrieroide.png",
+    imagen: "https://storage.googleapis.com/pokeneas-buckets/arrieroide.png",
     frase: "El camino se hace al andar, pero más rápido con una mula.",
   },
   {
@@ -37,7 +37,7 @@ const pokeneas = [
     nombre: "Bandejón",
     altura: 0.3,
     habilidad: "Satura de energía a quien lo come",
-    imagen: "https://storage.googleapis.com/pokeneas-bucket/bandejon.png",
+    imagen: "https://storage.googleapis.com/pokeneas-buckets/bandejon.png",
     frase: "Un estómago lleno piensa mejor.",
   },
   {
@@ -45,7 +45,7 @@ const pokeneas = [
     nombre: "Chorrazo",
     altura: 2.1,
     habilidad: "Controla cascadas",
-    imagen: "https://storage.googleapis.com/pokeneas-bucket/chorrazo.png",
+    imagen: "https://storage.googleapis.com/pokeneas-buckets/chorrazo.png",
     frase: "El agua siempre encuentra su camino, como el pueblo antioqueño.",
   },
   {
@@ -53,7 +53,7 @@ const pokeneas = [
     nombre: "Maizito",
     altura: 0.8,
     habilidad: "Hipnosis con arepas",
-    imagen: "https://storage.googleapis.com/pokeneas-bucket/maizito.png",
+    imagen: "https://storage.googleapis.com/pokeneas-buckets/maizito.png",
     frase: "De la tierra nace la fuerza, y del maíz la identidad.",
   },
   {
@@ -61,7 +61,7 @@ const pokeneas = [
     nombre: "Cafetero",
     altura: 1.4,
     habilidad: "Activa a aliados dormidos",
-    imagen: "https://storage.googleapis.com/pokeneas-bucket/cafetero.png",
+    imagen: "https://storage.googleapis.com/pokeneas-buckets/cafetero.png",
     frase: "El café no solo despierta el cuerpo; despierta el alma.",
   },
   {
@@ -69,7 +69,7 @@ const pokeneas = [
     nombre: "Tunjuelín",
     altura: 0.6,
     habilidad: "Teletransporte en metro cable",
-    imagen: "https://storage.googleapis.com/pokeneas-bucket/tunjelulin.png",
+    imagen: "https://storage.googleapis.com/pokeneas-buckets/tunjelulin.png",
     frase: "Desde las alturas todo se ve diferente, incluso los problemas.",
   },
   {
@@ -77,7 +77,7 @@ const pokeneas = [
     nombre: "Orquidón",
     altura: 1.0,
     habilidad: "Aura de serenidad floral",
-    imagen: "https://storage.googleapis.com/pokeneas-bucket/orquidon.png",
+    imagen: "https://storage.googleapis.com/pokeneas-buckets/orquidon.png",
     frase: "La flor más bella crece en el suelo más difícil.",
   },
 ];
